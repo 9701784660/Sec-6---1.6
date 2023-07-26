@@ -1,0 +1,7 @@
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\bin\Debug\Sec6  1.6.exe.config
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\bin\Debug\Sec6  1.6.exe
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\bin\Debug\Sec6  1.6.pdb
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\obj\Debug\Sec6  1.6.csproj.AssemblyReference.cache
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\obj\Debug\Sec6  1.6.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\obj\Debug\Sec6  1.6.exe
+D:\Assisted projects\Sec6  1.6\Sec6  1.6\obj\Debug\Sec6  1.6.pdb
